@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="DailyFinance automation">
+    <test name="register">
+        <classes>
+            <class name="Runner.RegisterRunnerPage">
+
+            </class>
+        </classes>
+    </test>
+    <test name="ClickResetLink">
+        <classes>
+            <class name="Runner.ResetLinkPageRunner">
+
+            </class>
+        </classes>
+    </test>
+    <test name="Set New Password">
+        <classes>
+            <class name="Runner.ResetPasswordRunner">
+
+            </class>
+        </classes>
+    </test>
+    <test name="Login With new Password">
+        <classes>
+            <class name="Runner.LoginPageRunner">
+
+            </class>
+        </classes>
+    </test>
+    <test name="Add Random 2 items">
+        <classes>
+            <class name="Runner.AddItemPageRunner">
+
+            </class>
+        </classes>
+    </test>
+    <test name="Update User Gmail">
+        <classes>
+            <class name="Runner.EditProfilePageRunner">
+
+            </class>
+        </classes>
+    </test>
+    <test name="Login with admin account">
+        <classes>
+            <class name="Runner.AdminLoginRunner">
+
+            </class>
+        </classes>
+    </test>
+    <test name="Search Updated Gmail">
+        <classes>
+            <class name="Runner.SearchUserRunner">
+
+            </class>
+        </classes>
+    </test>
+    <test name="Register from Csv user data">
+        <classes>
+            <class name="Runner.CsvRegisterRunnerPage">
+
+            </class>
+        </classes>
+    </test>
+    <test name="Get all user data">
+        <classes>
+            <class name="Runner.GetAllUserRunner">
+
+            </class>
+        </classes>
+    </test>
+
+
+</suite>
