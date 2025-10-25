@@ -61,7 +61,7 @@ Below is a screenshot of the generated report:
 ### Test Case Document
 The detailed **test case documentation** for all automated scenarios is available here:  
 
-[View Test Case Report]https://docs.google.com/spreadsheets/d/1Zf5m-jaly_vfKzZArcrskgLXoi3yMFM5b-P4ua0ihxE/edit?gid=1064373203#gid=1064373203
+[View Test Case Report](https://docs.google.com/spreadsheets/d/1Zf5m-jaly_vfKzZArcrskgLXoi3yMFM5b-P4ua0ihxE/edit?gid=1064373203#gid=1064373203)
 
 
 
