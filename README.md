@@ -50,9 +50,13 @@ The project follows **Page Object Model (POM) architecture** for maintainability
 - Gradle
 - Allure Reports
 - OpenCSV / FileWriter (for CSV and text file handling)
+## Full Automation Recording
+
+Watch the complete automation process, including user registration, password reset, item management, and admin actions:  
+[View Video](https://drive.google.com/file/d/1qqjRfN4Elz8KOWhdak_WrGlebDCdHJfT/view?usp=sharing)
+
 
 ## Reports
-
 ### Allure TestNG Report
 The automation results are captured using **Allure TestNG reports**.  
 Below is a screenshot of the generated report:
