@@ -51,6 +51,19 @@ The project follows **Page Object Model (POM) architecture** for maintainability
 - Allure Reports
 - OpenCSV / FileWriter (for CSV and text file handling)
 
+## Reports
+
+### Allure TestNG Report
+The automation results are captured using **Allure TestNG reports**.  
+Below is a screenshot of the generated report:
+<img width="1301" height="672" alt="allure-report" src="https://github.com/user-attachments/assets/c32c52fb-6ecb-4854-92f9-7ea18a9e74e6" />
+
+### Test Case Document
+The detailed **test case documentation** for all automated scenarios is available here:  
+
+[View Test Case Report]https://docs.google.com/spreadsheets/d/1Zf5m-jaly_vfKzZArcrskgLXoi3yMFM5b-P4ua0ihxE/edit?gid=1064373203#gid=1064373203
+
+
 
 
 
