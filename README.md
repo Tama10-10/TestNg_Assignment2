@@ -1,11 +1,5 @@
 # Selenium Automation Assignment
 
-[![Java](https://img.shields.io/badge/Java-17-orange)](https://www.java.com/) 
-[![Selenium](https://img.shields.io/badge/Selenium-4.12.1-blue)](https://www.selenium.dev/)
-[![TestNG](https://img.shields.io/badge/TestNG-7.7.1-green)](https://testng.org/)
-
----
-
 ## Project Overview
 This project is an **automation assignment using Selenium and TestNG** 
 The automation covers **end-to-end user and admin scenarios** for the website: [Daily Finance](https://dailyfinance.roadtocareer.net/).
